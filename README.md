@@ -6,15 +6,20 @@ Selamat datang di Permainan Cuci Tangan dengan Penggunaan Webcam! Program ini ad
 
 # tujuan program di buat
 
-1.Menampilkan Permainan Cuci Tangan: Program ini bertujuan untuk membuat permainan yang mengajak pengguna untuk bermain sambil mencuci tangan. Ini bisa menjadi bagian dari upaya untuk menyebarkan kesadaran akan pentingnya mencuci tangan secara teratur.
+1.**Menampilkan Permainan Cuci Tangan:**
+Program ini bertujuan untuk membuat permainan yang mengajak pengguna untuk bermain sambil mencuci tangan. Ini bisa menjadi bagian dari upaya untuk menyebarkan kesadaran akan pentingnya mencuci tangan secara teratur.
 
-2.Mendeteksi Gerakan: Program menggunakan teknologi deteksi gerakan dari OpenCV untuk mendeteksi gerakan pengguna di depan webcam. Ini mungkin dimaksudkan untuk menanggapi gerakan tangan pengguna, misalnya, saat mereka mencuci tangan atau menggerakkan tangan mereka untuk memainkan permainan.
+2.**Mendeteksi Gerakan:**
+Program menggunakan teknologi deteksi gerakan dari OpenCV untuk mendeteksi gerakan pengguna di depan webcam. Ini mungkin dimaksudkan untuk menanggapi gerakan tangan pengguna, misalnya, saat mereka mencuci tangan atau menggerakkan tangan mereka untuk memainkan permainan.
 
-3.Menampilkan GIF: Program menampilkan beberapa GIF pada layar menggunakan Pygame. Ini bisa menjadi elemen permainan atau panduan visual untuk pengguna.
+3.**Menampilkan GIF:**
+Program menampilkan beberapa GIF pada layar menggunakan Pygame. Ini bisa menjadi elemen permainan atau panduan visual untuk pengguna.
 
-Interaksi Pengguna: Pengguna dapat berinteraksi dengan permainan ini, baik melalui gerakan fisik yang dideteksi oleh webcam atau melalui kontrol lainnya seperti tombol atau mouse.
+4.**Interaksi Pengguna:**
+Pengguna dapat berinteraksi dengan permainan ini, baik melalui gerakan fisik yang dideteksi oleh webcam atau melalui kontrol lainnya seperti tombol atau mouse.
 
-Hiburan dan Pendidikan: Tujuan akhir dari program ini mungkin untuk menyediakan kombinasi antara hiburan dan edukasi. Permainan seperti ini dapat menjadi alat yang efektif untuk mengajarkan konsep-konsep seperti kebersihan dan kesehatan kepada pengguna secara interaktif dan menarik.
+5.**Hiburan dan Pendidikan:**
+Tujuan akhir dari program ini mungkin untuk menyediakan kombinasi antara hiburan dan edukasi. Permainan seperti ini dapat menjadi alat yang efektif untuk mengajarkan konsep-konsep seperti kebersihan dan kesehatan kepada pengguna secara interaktif dan menarik.
 
 ## Alur Cara Penggunaan
 
